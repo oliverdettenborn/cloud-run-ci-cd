@@ -11,3 +11,5 @@ Dockerfile*
 .env.example
 yarn.lock
 Makefile
+README.md
+docker-compose*
