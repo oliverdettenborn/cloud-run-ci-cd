@@ -1,5 +1,3 @@
-# typescript-back-end-template
+# cloud Run CI/CD
 
-Template to create new typescript express applications
-
-To create a new application, you just new to use this repository as template when creating a new one.
+Server base to deploy a new Cloud Run App on Goggle Cloud Plataform, using Github Actions
