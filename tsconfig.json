@@ -11,8 +11,12 @@
     "paths": {
       "@/*": ["*"]
     },
-    "plugins": [{ "transform": "typescript-transform-paths" }]
+    "plugins": [
+      {
+        "transform": "typescript-transform-paths"
+      }
+    ]
   },
   "include": ["src", "tests"],
-  "exclude": []
+  "exclude": ["tests"]
 }
