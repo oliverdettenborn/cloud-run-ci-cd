@@ -1,0 +1,8 @@
+node_modules
+coverage
+dist
+.env
+.env.test
+.env.dev*
+.env.production
+yarn-error.log
